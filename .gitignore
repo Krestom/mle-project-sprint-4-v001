@@ -167,3 +167,12 @@ cython_debug/
 
 # project environment
 env_recsys_start/
+
+*.pkl 
+*.npz 
+
+# als_model.pkl
+# item_encoder.pkl
+# similar_items.npz
+# user_encoder.pkl
+# user_item_matrix_train.npz 
