@@ -170,6 +170,7 @@ env_recsys_start/
 
 *.pkl 
 *.npz 
+*.npy
 
 # als_model.pkl
 # item_encoder.pkl
